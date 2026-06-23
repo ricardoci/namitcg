@@ -1,0 +1,2 @@
+# namitcg
+all nami cards
